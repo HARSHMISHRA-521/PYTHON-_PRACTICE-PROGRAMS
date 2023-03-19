@@ -30,3 +30,15 @@ g.close()
 # # print(g.read())
 # g.write("write harsh 22222 \t")
 # g.close()
+
+#writing method for iterable objects
+f = open('myfile.txt', 'w')
+lines = ['line 1', 'line 2', 'line 3']
+for line in lines:
+    f.write(line + '\n')
+f.close()
+
+f = open('myfile.txt', 'w')
+lines = ['line 1\n', 'line 2\n', 'line 3\n']
+f.writelines(lines)
+f.close()

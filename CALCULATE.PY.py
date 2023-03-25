@@ -1,4 +1,5 @@
 print("CALCULATOR")
+
 print("enter the number ")
 a=input()
 print("enetr the number")

@@ -1,6 +1,5 @@
 txt = "For only {price:.2f} dollars!"    #old method of string formatting
 print(txt.format(price = 49))
-
 letter ="MY NAME IS {} AND I AM {} YEARS OLD"
 name="HARSH"
 age=22

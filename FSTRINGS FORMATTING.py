@@ -4,7 +4,6 @@ letter ="MY NAME IS {} AND I AM {} YEARS OLD"
 name="HARSH"
 age=22
 print(letter.format(name,age))
-
 val = 'Geeks'                     #new method of f-strings
 print(f"{val}for{val} is a portal for {val}.")
 name = 'Tushar'

@@ -4,7 +4,6 @@
 
 def function1(a, b):
     print("Hello you are in function 1", a+b)
-    
 def function2(a, b):
     """This is a function which will calculate average of two numbers
     this function doesn't work for three numbers"""

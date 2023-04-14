@@ -1,5 +1,6 @@
 
 d={"python":"a easiest programming language","c":"a old programming language","java":"most used programming language","sql":"a database language"}
+
 print(d)
 print("enter the word :")
 w=input()

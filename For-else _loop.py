@@ -8,6 +8,7 @@ else:                          #this else will only execute only if the loop
     print("loop in else")
 
 # for counter in sequence:
+
 #     #Statements inside for loop block
 # else:
 #     #Statements inside else block

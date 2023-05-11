@@ -1,4 +1,9 @@
+
+# https://regexr.com/
+# a website for learning regex
+
 import re
+
 
 pattern = r"[A-Z]+yclone"
 
